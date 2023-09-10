@@ -65,7 +65,7 @@ public class HangmanGame {
             if (repeat.equals("yes")){
                 again = again + 1;
             }
-            else {
+            else{
                 System.out.println("Thank you for playing HangmanGame!");
             }
         }
